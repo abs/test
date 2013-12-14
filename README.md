@@ -8,3 +8,4 @@ Startup Checklist
 - Funding
 - Customers
 - T-shirts
+- Video tutorials
