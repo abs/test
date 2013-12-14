@@ -7,4 +7,3 @@ Startup Checklist
 - Product
 - Funding
 - Customers
-- T-shirts
