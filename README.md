@@ -1,2 +1,2 @@
-Hello World!
+Kato Getting Started Guide
 ====
