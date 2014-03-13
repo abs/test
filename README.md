@@ -9,3 +9,4 @@ Startup Checklist
 - Customers
 - T-shirts
 - Video tutorials
+- More people
