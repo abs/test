@@ -17,3 +17,4 @@ Startup Checklist
 - Amex Business
 - Homepage redesign
 - Another homepage redesign
+- Board meeting
