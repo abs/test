@@ -12,3 +12,4 @@ Startup Checklist
 - T-shirts
 - Video tutorials
 - More people
+- Worthy competitor
