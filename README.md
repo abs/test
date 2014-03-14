@@ -18,3 +18,4 @@ Startup Checklist
 - Homepage redesign
 - Another homepage redesign
 - Board meeting
+- Write a book
