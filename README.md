@@ -13,3 +13,4 @@ Startup Checklist
 - Video tutorials
 - More people
 - Worthy competitor
+- Stickers
