@@ -22,3 +22,4 @@ Startup Checklist
 - Hire a CFO
 - Fire all marketing
 - Hire marketing
+- Hire a PR agency
