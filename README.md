@@ -7,6 +7,7 @@ Startup Checklist
 - Product
 - Funding
 - Customers
+- Bookkeeper
 - T-shirts
 - Video tutorials
 - More people
