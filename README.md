@@ -16,3 +16,4 @@ Startup Checklist
 - Stickers
 - Amex Business
 - Homepage redesign
+- Another homepage redesign
