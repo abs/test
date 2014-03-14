@@ -15,3 +15,4 @@ Startup Checklist
 - Worthy competitor
 - Stickers
 - Amex Business
+- Homepage redesign
