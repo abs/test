@@ -8,6 +8,7 @@ Startup Checklist
 - Funding
 - Customers
 - Bookkeeper
+- Tax Accountant
 - T-shirts
 - Video tutorials
 - More people
