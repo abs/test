@@ -20,3 +20,4 @@ Startup Checklist
 - Board meeting
 - Write a book
 - Hire a CFO
+- Fire all marketing
