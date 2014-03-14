@@ -19,3 +19,4 @@ Startup Checklist
 - Another homepage redesign
 - Board meeting
 - Write a book
+- Hire a CFO
